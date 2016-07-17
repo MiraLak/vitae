@@ -1,4 +1,4 @@
-highlighter: pygments
+highlighter: rouge
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
@@ -13,22 +13,17 @@ author: Fábio Madeira
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
+baseurl: /cv/
+title: Amira Lakhal's Resume
+name: Amira Lakhal
+email: email le
+email_full: mailto:amira.lakhal@gmail.com
+website: github.io/miralak
+gravatar_url: https://en.gravatar.com/userimage/19419949/9bc5ee9c59f9bfcb84234b0a3d09efb1.jpeg
+github: miralak
+twitter: miralak
+city: Paris
+country: France
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
